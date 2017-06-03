@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<plugin>
+	<name>What's new!</name>
+	<key>whatsnew</key>
+	<description>Server-side of Google Chrome extension that lets you get notifications instantly from your favourite social networking site powered by Oxwall</description>
+    <author>Zarif Safiullin</author>
+    <authorEmail>zaph.saph@gmail.com</authorEmail>
+	<authorUrl>http://www.wallox.com</authorUrl>
+	<developerKey>21feed2fc03658ea012bf3eb6903c84a</developerKey>
+    <build>1</build>
+    <copyright>(C) 2012 Zarif Safiullin. All rights reserved.</copyright>
+	<license>OSCL</license>
+    <licenseUrl>http://www.oxwall.org/store/oscl</licenseUrl>
+</plugin>
